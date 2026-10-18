@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f4eaff;
+    color: #302044;
+    text-align: center;
+    margin: 0;
+}
+
+header {
+    background: #7138d4;
+    color: white;
+    padding: 25px;
+}
+
+main {
+    padding: 30px 15px;
+}
+
+.game-card {
+    background: white;
+    max-width: 350px;
+    margin: 25px auto;
+    padding: 25px;
+    border-radius: 18px;
+    box-shadow: 0 4px 15px #00000015;
+}
+
+button {
+    background: #ff4f9a;
+    color: white;
+    border: none;
+    padding: 12px 22px;
+    border-radius: 25px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background: #e52c7c;
+}
+
+footer {
+    margin-top: 35px;
+    padding: 15px;
+}
